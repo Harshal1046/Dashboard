@@ -1,6 +1,6 @@
 # Dashboard
 
-In This Dashboard made Charts Using CanvasJs Library.
+In This Dashboard, Created Charts Using CanvasJs Library.
 
 
 ### Author
