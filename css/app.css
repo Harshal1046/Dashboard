@@ -20,10 +20,10 @@ body {
 
 }
 
-.navbar-default {
-}
-
-.container {
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
+	background-color: #9fc4e3;
+	color: #fff;
 }
 
 .footer {
